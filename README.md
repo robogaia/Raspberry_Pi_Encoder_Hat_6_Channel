@@ -1,4 +1,5 @@
 # Raspberry_Pi_Encoder_Hat_6_Channel
+![plot](./Images/Robogaia_6_Channel_Encoder_Plate.jpg)
 
 This is the code for Raspberry Pi 6 Channel Encoder Hat. Here is the link to it:
 
